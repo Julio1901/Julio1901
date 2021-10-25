@@ -4,6 +4,7 @@
 - 🔭 Desenvolvo para plataformas Mobile
 - 👨‍💻 Atualmente sou um orgulhoso participante do Bootcamp Pessoa Desenvolvedora Mobile oferecido pela Generation Brasil
 - 🌱 Estou focado no estudo de Kotlin e desenvolvimento para o ambiente Android
+- 📚 Cursando Desenvolvimento de Sistemas Para Internet - FMU 
 - 😄 Pronouns: he/ele/dele
 
 <div align="center">
