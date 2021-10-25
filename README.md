@@ -1,4 +1,4 @@
-### Oii, bem-vinde!! Eu sou o Julio Cesar desenvolvedor Mobile e estudante de tecnologia😉
+### Olá! Eu sou o Julio Cesar desenvolvedor Mobile e estudante de tecnologia😉
 
 
 - 🔭 Desenvolvo para plataformas Mobile
