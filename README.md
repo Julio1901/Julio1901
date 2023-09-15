@@ -26,7 +26,7 @@
   <img align="center" alt="Julio-Linux" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Julio-GIT" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
     
-  <img align="right" alt="Julio-GIF" height="200" style="border-radius:50px;" src="https://i.picasion.com/pic91/14a086681fd88b0ddd3601e9cca3f389.gif">
+  
 </div>
   
   ##
