@@ -1,10 +1,7 @@
-### Olá! Eu sou o Julio Cesar desenvolvedor Mobile e estudante de tecnologia
+### Olá! Eu sou o Julio Cesar Engenheiro de Software Full Stack
 
-
-- 🔭 Desenvolvo para plataformas Mobile
-- 👨‍💻 Sou um orgulhoso desenvolvedor formado pelo Bootcamp Pessoa Desenvolvedora Mobile oferecido pela Generation Brasil
-- 🌱 Desenvolvo nativamente para Android (Kotlin) & IOS (Swift)
-- 📚 Cursando Desenvolvimento de Sistemas Para Internet (Mobile) - FMU 
+-Desenvolvo sistemas focado, mas não se limitando à tecnologias como Java, Spring Boot, Angular & React (Js e Native)
+-Cursando Desenvolvimento de Sistemas Para Internet (Mobile) - FMU 
 
 <div align="center">
   <a href="https://github.com/Julio1901">
