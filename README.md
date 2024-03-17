@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Julio Cesar Engenheiro de Software Full Stack
 
--Desenvolvo sistemas focado, mas não se limitando à tecnologias como Java, Spring Boot, Angular & React (Js e Native)
+-Desenvolvo sistemas focado, mas não se limitando à tecnologias como Java, Spring Boot, Angular & React (Js e Native)<br/>
 -Cursando Desenvolvimento de Sistemas Para Internet (Mobile) - FMU 
 
 <div align="center">
