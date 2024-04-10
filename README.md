@@ -1,6 +1,6 @@
-### Olá! Eu sou o Julio Cesar Engenheiro de Software Full Stack
+### Olá! Eu sou o Julio Cesar Engenheiro de Software Mobile
 
--Desenvolvo sistemas que utilizam principalmente tecnologias como ReactNative, ReactJS, NodeJS, Spring Boot, TypeScript, NextJS e NestJS <br/>
+-Desenvolvo sistemas que utilizam principalmente tecnologias como Android - Kotlin, iOS Swift, ReactNative - TypeScript, Flutter - Dart <br/>
 -Cursando Desenvolvimento de Sistemas Para Internet (Mobile) - FMU 
 
 <div align="center">
