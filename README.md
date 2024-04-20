@@ -11,10 +11,8 @@
     <img align="center" alt="Julio-Android" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
     <img align="center" alt="Julio-Kotlin" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="Julio-android-studio" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
-    <img align="center" alt="Julio-MySQL" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="Julio-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Julio-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Julio-JS" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Julio-react-native" height="40" width="60" src="https://raw.githubusercontent.com/Julio1901/myProjectsImages/master/git-hub-profile/icon-react-native.png">
+    <img align="center" alt="Julio-typescript" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </div>
   
   ## 
