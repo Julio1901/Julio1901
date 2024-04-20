@@ -6,6 +6,7 @@
 
 ### I create applications using Swift - iOS, Kotlin - Android, and React Native. <br/>
 ### I'm finishing my bachelor's degree in Internet and Mobile Systems Development at FMU college.
+### Graduated from the Mobile Bootcamp at <Link href="https://brazil.generation.org/?gad_source=1&gclid=CjwKCAjwrIixBhBbEiwACEqDJUFNpN-GDiMk5tWhb0OQ3ZaFxoxc_Nvep4nu6XWL6J_BBlUxJ5SvbRoCzhQQAvD_BwE"> Generation Brazil </Link>.
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Julio-Apple" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
