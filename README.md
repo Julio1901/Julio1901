@@ -41,4 +41,5 @@
   
    ![Snake animation](https://github.com/Julio1901/Julio1901/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/Julio1901/myProjectsImages/master/git-hub-profile/appleGit.gif">
+![appleGit](https://github.com/Julio1901/Julio1901/assets/47728178/a820a524-032a-4bb8-9c2e-0e1c74cf054a)
+
