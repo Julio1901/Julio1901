@@ -3,12 +3,6 @@
 -I develop systems primarily using technologies such as iOS - Swift, Android - Kotlin, and React Native - TypeScript <br/>
 -I'm finishing my bachelor's degree in Internet and Mobile Systems Development at FMU college.
 
-<div align="center">
-  <a href="https://github.com/Julio1901">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio1901&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio1901&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
   <div style="display: inline_block"><br>
    <img align="center" alt="Julio-Apple" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
     <img align="center" alt="Julio-Swift" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
