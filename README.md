@@ -7,10 +7,10 @@
   <div style="display: inline_block"><br>
     <img align="center" alt="Julio-Apple" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
     <img align="center" alt="Julio-Swift" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
-    <img align="center" alt="Julio-xCode" height="40" width="60" src=" https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg">
+    <img align="center" alt="Julio-xCode" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg">
     <img align="center" alt="Julio-Android" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
     <img align="center" alt="Julio-Kotlin" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-    <img align="center" alt="Julio-android-studio" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg">
+    <img align="center" alt="Julio-android-studio" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
     <img align="center" alt="Julio-MySQL" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Julio-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Julio-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
