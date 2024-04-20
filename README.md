@@ -37,9 +37,9 @@
   <a href="https://www.linkedin.com/in/julio-cesar-6728b41b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   <br>
-  <a href = "https://www.codewars.com/users/Jovem%20Stark"><img src="https://www.codewars.com/users/Jovem%20Stark/badges/small">
- 
-![ios-gif-2](https://github.com/Julio1901/Julio1901/assets/47728178/e4c848ed-5674-4205-9331-5b48aa39737f)
+  <a href = "https://www.codewars.com/users/Jovem%20Stark">
+<img src="https://www.codewars.com/users/Jovem%20Stark/badges/small">
+ <img src="https://media.discordapp.net/attachments/1231114964253806592/1231115077562929182/appleGit.gif?ex=6624a4c3&is=66235343&hm=fdb82275270403ab478734e730489ccb043b58bb76ab8c2ba570aa21e3ae4f73&="/>
 
 
    ![Snake animation](https://github.com/Julio1901/Julio1901/blob/output/github-contribution-grid-snake.svg)
