@@ -1,10 +1,6 @@
 # Hello, I'm Julio Cesar, a mobile software engineer specializing in iOS.
-</div>
-  
-  ##
-<div>
 
-### I create applications using Swift - iOS, Kotlin - Android, and React Native. <br/>
+### I create applications using Swift - iOS, Kotlin - Android, and React Native.
 ### I'm finishing my bachelor's degree in Internet and Mobile Systems Development at FMU college.
 ### Graduated from the Mobile Bootcamp at Generation Brazil.
 
@@ -25,9 +21,7 @@
   
 </div>
   
-  ##
-  
-  
+  ## 
   <div>
     <a href="https://" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/js.cesar42/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
