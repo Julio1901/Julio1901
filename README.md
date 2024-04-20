@@ -39,7 +39,8 @@
   <br>
   <a href = "https://www.codewars.com/users/Jovem%20Stark"><img src="https://www.codewars.com/users/Jovem%20Stark/badges/small">
  
-![appleGit](https://github.com/Julio1901/Julio1901/assets/47728178/8940304b-2a5d-4fe8-b464-050567aa9cec)
+![ios-gif-2](https://github.com/Julio1901/Julio1901/assets/47728178/e4c848ed-5674-4205-9331-5b48aa39737f)
+
 
    ![Snake animation](https://github.com/Julio1901/Julio1901/blob/output/github-contribution-grid-snake.svg)
 
