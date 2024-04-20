@@ -1,7 +1,7 @@
-### Olá! Eu sou o Julio Cesar Engenheiro de Software Mobile
+### Hello, I'm Julio Cesar, a Mobile Software Engineer. I specialize in iOS development, but I also create apps for the Android platform.
 
--Desenvolvo sistemas que utilizam principalmente tecnologias como Android - Kotlin, iOS Swift, ReactNative - TypeScript, Flutter - Dart <br/>
--Cursando Desenvolvimento de Sistemas Para Internet (Mobile) - FMU 
+-I develop systems primarily using technologies such as iOS - Swift, Android - Kotlin, and React Native - TypeScript <br/>
+-I'm finishing my bachelor's degree in Internet and Mobile Systems Development at FMU college.
 
 <div align="center">
   <a href="https://github.com/Julio1901">
