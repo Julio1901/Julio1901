@@ -40,3 +40,5 @@
   <a href = "https://www.codewars.com/users/Jovem%20Stark"><img src="https://www.codewars.com/users/Jovem%20Stark/badges/small">
   
    ![Snake animation](https://github.com/Julio1901/Julio1901/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/Julio1901/myProjectsImages/master/git-hub-profile/appleGit.gif">
