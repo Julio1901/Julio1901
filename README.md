@@ -1,5 +1,8 @@
-### Hello, I'm Julio Cesar, a Mobile Software Engineer. I specialize in iOS development, but I also create apps for the Android platform.
-
+### Hello, I'm Julio Cesar, a mobile software engineer specializing in iOS.
+</div>
+  
+  ##
+<div>
 -I develop systems primarily using technologies such as iOS - Swift, Android - Kotlin, and React Native - TypeScript <br/>
 -I'm finishing my bachelor's degree in Internet and Mobile Systems Development at FMU college.
 
