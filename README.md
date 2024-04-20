@@ -1,16 +1,15 @@
-### Hello, I'm Julio Cesar, a mobile software engineer specializing in iOS.
+# Hello, I'm Julio Cesar, a mobile software engineer specializing in iOS.
 </div>
   
   ##
 <div>
-  1. sdsdas
-    - dsdsa 
-* I develop systems primarily using technologies such as iOS - Swift, Android - Kotlin, and React Native - TypeScript <br/>
-- I'm finishing my bachelor's degree in Internet and Mobile Systems Development at FMU college.
+
+### I create applications using Swift - iOS, Kotlin - Android, and React Native. <br/>
+### I'm finishing my bachelor's degree in Internet and Mobile Systems Development at FMU college.
 
   <div style="display: inline_block"><br>
-   <img align="center" alt="Julio-Apple" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
-    <img align="center" alt="Julio-Swift" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
+  <img align="center" alt="Julio-Apple" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
+  <img align="center" alt="Julio-Swift" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
   <img align="center" alt="Julio-Android" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Julio-Kotlin" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Julio-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
