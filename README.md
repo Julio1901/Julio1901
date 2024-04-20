@@ -40,7 +40,9 @@
   <a href = "https://www.codewars.com/users/Jovem%20Stark">
 <img src="https://www.codewars.com/users/Jovem%20Stark/badges/small">
 
- <img align="center" alt="Gif" height="60" width="80" src="https://raw.githubusercontent.com/Julio1901/myProjectsImages/master/git-hub-profile/appleGit.gif">
+
+
+ <img align="center" alt="Gif" height="60" width="80" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJoamp0M2Ezb3ZkY292YWc3ZDJ3dHJoMWN5ZzN4MW1rajB6M3I2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11e56tPCqD9kjK/giphy.gif">
 
 
    ![Snake animation](https://github.com/Julio1901/Julio1901/blob/output/github-contribution-grid-snake.svg)
