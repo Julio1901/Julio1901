@@ -3,7 +3,9 @@
   
   ##
 <div>
-- I develop systems primarily using technologies such as iOS - Swift, Android - Kotlin, and React Native - TypeScript <br/>
+  1. sdsdas
+    - dsdsa 
+* I develop systems primarily using technologies such as iOS - Swift, Android - Kotlin, and React Native - TypeScript <br/>
 - I'm finishing my bachelor's degree in Internet and Mobile Systems Development at FMU college.
 
   <div style="display: inline_block"><br>
