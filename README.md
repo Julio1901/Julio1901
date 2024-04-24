@@ -11,6 +11,7 @@
     <img align="center" alt="Julio-Android" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
     <img align="center" alt="Julio-Kotlin" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="Julio-android-studio" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
+      <img align="center" alt="Julio-react-native" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
     <img align="center" alt="Julio-react-native" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
     <img align="center" alt="Julio-typescript" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </div>
