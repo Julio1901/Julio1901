@@ -1,6 +1,6 @@
-# Hello, I'm Julio Cesar, a mobile software engineer.
+# Hello, I'm Julio Cesar, a software engineer.
 
-### I create applications using Swift - iOS, Kotlin - Android, Flutter and React Native.
+### I create applications using React JS, React Native, TypeScript, Swift - iOS and Kotlin - Android.
 ### I'm finishing my bachelor's degree in Internet and Mobile Systems Development at FMU college.
 ### Graduated from the Mobile Bootcamp at Generation Brazil.
 
